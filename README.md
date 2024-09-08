@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Hamzaali4
+- 👀 I’m interested in coding, software development, and tech innovations.
+- 🌱 I’m currently learning advanced programming languages, full-stack development, and algorithms.
+- 💞️ I’m looking to collaborate on open-source projects, coding challenges, and innovative software solutions.
+- 📫 How to reach me: muhammadhamzaali172@gmail.com or through my GitHub profile.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving coding challenges and learning new technologies!
